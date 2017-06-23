@@ -1,4 +1,4 @@
-# classificationModelAnalysis-Django
+# classificationModelAnalysis-Django|Python|R
 Django web application to analyse various model under classification category of data set in Machine Learning
 We will be training a model using classification dataset and finding the analysis of different models.
 
