@@ -1,26 +1,5 @@
-###############################################################
-#                                                             #
-#            Random Forest for Classification                 #
-#                                                             #
-###############################################################
-#                                                             #
-# Credit: Dr. Prashant Singh Rana                             #
-# Email : psrana@gmail.com                                    #
-# Web   : www.psrana.com                                      #
-#                                                             #
-###############################################################
-#                                                             #
-# Train and Test Random Forest for Classification             #
-#                                                             #
-# This script do the following:                               #
-# 1. Load the Data                                            #
-# 2. Partition the data into Train/Test set                   #
-# 3. Train the Decision Tree Model                            #
-# 4. Test                                                     #
-# 5. Evaluate on : Accuracy.                                  # 
-# 6. Finally Saving the results.                              #
-#                                                             #
-###############################################################
+
+# Credit: Dr. Prashant Singh Rana                             
 
 
 #--------------------------------------------------------------
